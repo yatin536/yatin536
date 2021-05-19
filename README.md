@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yatin Kumae Singh
+- 👋 Hi, I’m Yatin Kumar Singh
 - 👀 I’m interested in Machine Learning , Deep Learning , Python Programming , Building Smart Cognitive Systems , Cloud Engineering
 - 🌱 I’m currently learning Data Structure with Python , Java
 - 💞️ I’m looking to collaborate on ...
